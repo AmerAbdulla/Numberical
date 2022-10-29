@@ -1,4 +1,0 @@
-
-Python Code Bisection : https://colab.research.google.com/drive/1aw37byJ8AmMnmDVheDT2qPp7VlKZkEdy?usp=sharing
-GitHub Python Bisction : https://github.com/AmerAbdulla/Numberical.git
-Google Sheet : https://docs.google.com/spreadsheets/d/1s8XRkCaebk92Ju9vrjKlrO1u4j1BYyufxomV6_3Vg04/edit?usp=sharing
